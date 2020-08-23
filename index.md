@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Curso de Arduino
-hero_image: /images/arduino_site.jpg
-subtitle: Esse é um Exemplo 2
+hero_image: /images/about-hero.jpg
+subtitle: Esse é um Exemplo
 callouts: example_callouts
 
 
