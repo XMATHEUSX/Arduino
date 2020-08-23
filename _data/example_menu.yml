@@ -4,16 +4,14 @@
       link: /example-item/
     - name: Eletrônica básica
       link: /parent-item/
-    - name: Entrada e Saída digital;
+    - name: Entrada e Saída digital
       link: /parent-item/
 - label: 
   items:
-    - name: Parent Item
-      link: /parent-item/
       items:
-        - name: Sublink 
+        - name: Piscar LEDs em tempos variados 
           link: /sublink/
-        - name: Sublink 2
+        - name: SOS em código Morse
           link: /sublink2/
 - label: Third Menu Label
   items:
