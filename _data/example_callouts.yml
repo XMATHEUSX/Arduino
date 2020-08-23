@@ -1,26 +1,15 @@
 style: is-dark
-height: is-medium
+height: is-large
 items:
   - title: Módulo Básico
     icon: fas fa-microchip
     description: >
-        Você que nunca teve contato com um microcontrolador e desejar entrar nesse fantatisco mundo onde é possivel criar projetos incriveis. 
+        Você que nunca teve contato com um microcontrolador e desejar entrar nesse fantátisco mundo onde é possível criar projetos incríveis. 
     call_to_action_name: Módulo Básico
     call_to_action_link: /page-1/
-  - title: Example callout 2
-    subtitle: Example subtitle 2
+  - title: Módulo Avançado I
     icon: fa-wrench
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
-    call_to_action_name: Call to action 2
+        Para as pessoas que já tem um certo conhecimento em arduino oferecemos esse curso onde poderam aprender ainda mais sobre essa plataforma incríveis.   
+    call_to_action_name: Módulo Avançado I
     call_to_action_link: /page-2/
-  - title: Example callout 3
-    subtitle: Example subtitle 3
-    icon: fa-github
-    icon_brand: true
-    description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
-    call_to_action_name: Call to action 3
-    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
