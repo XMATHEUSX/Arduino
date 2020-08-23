@@ -19,7 +19,7 @@
           link: /sublink2/
 - label: 
   items:
-    - name: Comunicação;
+    - name: Comunicação
       link: /parent-item/
       items:
         - name: Envio de números de 0 a 60 pelo monitor serial 
@@ -30,8 +30,12 @@
           link: /sublink/
         - name: ECO
           link: /sublink2/
-
-
-
-
-  
+- label: 
+  items:
+    - name: Portas analógicas
+      link: /parent-item/
+      items:
+        - name: Receber e enviar a tensão de um LDR via UART 
+          link: /sublink/
+        - name: Acionamento  de  LED  variável  de  acordo  com  valor  obtido  por  um  potenciômetro e por um LDR
+          link: /sublink2/
