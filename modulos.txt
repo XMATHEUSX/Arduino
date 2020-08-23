@@ -1,0 +1,47 @@
+Módulo Básico
+  1.Conceitos básicos e Introdução ao Arduino;
+  2.Eletrônica básica;
+  3.Entrada e Saída digital (Exemplos de Piscar LED, push buttone displayde sete segmentos); 
+    a.Piscar LEDs em tempos variados;
+    b.SOS em código Morse;
+    c.Semáforo interativo (com push button);
+    d.Contadores em Displayde 7 segmentos;
+    e.SOS em Displayde 7 segmentos;
+  4.Comunicação  (Explicação  da  comunicação  em  sistemas  embarcados e foco em UART –Universal Assynchronous Receiver/Transmitterou Receptor/Transmissor Assíncrono Universal);
+    a.Envio de números de 0 a 60 pelo monitor serial;
+    b.Interface com o push button e envio pela UART; 
+    c.Acionamento de LED de acordo com caractere recebido; 
+    d.ECO (recepção e envio do mesmo texto recebido); 
+  5.Portas analógicas (periféricos de timere Conversor Digital-Analógico);
+    a.Receber e enviar a tensão de um LDR (Light Dependent Resistorou Resistor Dependente de Luz) via UART;
+    b.Acionamento  de  LED  variável  (modulação  por  largura  de pulso)  de  acordo  com  valor  obtido  por  um  potenciômetro  e por um LDR;
+    
+Módulo Avançado I
+1.Módulo bluetooth HC-06; 
+  a.Acendimento  de  um  LED  de  acordo  com  o  que  for  recebido pelo módulo; 
+  b.Alterar o nome dispositivo via AT MODE; 
+  c.Mostaro  número  recebido  pelo bluetoothno  Display   7 segmentos; 
+2.Módulo Buzzer; 
+  a.Sirene de polícia; 
+3.Real    Time    Clock(Relógio    de    Tempo    Real,    utilizado    para    a temporização); 
+  a.Traduzir os dias recebidos para português; 
+  b.Configurar  o  módulo  de  acordo  com  o  requisitado  pelo usuário, pelo monitor serial; 
+  c.Fazer com que um LED seja alternado para cada transição de hora, minuto e segundo; 
+4.Sensor de presença, Motor de passo e Servo Motor; 
+  a.Fazer o servo motor ir de 0º a 90º e de 90º a 0º; 
+  b.Com   dois push   buttons,   um   aumenta   em   30º   e   outro decrementa em 30º o servo motor; 
+  c.Escrever no servo o que o usuário digitar no monitor serial; 
+5.Sensor de ultrassom; 
+  a.Configurar  o  sensor  HC-SR04  para  enviar  a  distância  em polegadas; 
+  b.Enviar a distância via UART de acordo com o que for digitado pelo usuário, se em polegadas ou centímetros; 
+  c.Enviar mensagens que variam com a distância do sensor; 
+  d.Com  dois  LEDs,  um  acende  acima  de  15cm  e  outro  acende abaixo de 15cm; 
+  e.Fazer um LED piscar proporcionalmente à distância; 
+6.Display de LCD (Liquid Crystal Displayou Tela de Cristal Líquido); 
+  a.Escrever um texto na primeira linha e desloca-la até esta não aparecer mais; 
+  b.Receber  um  texto  da  serial  e  imprimi-lo  no display. Se  esta for  muito  grande,  desloca-la  para  que  apareça  inteiramente na tela; 
+7.MPU  (Circuito  integrado  que  contém  acelerômetro,  giroscópio  e sensor de temperatura); 
+  a.Configurar o giroscópio do MPU6050; 
+  b.Configurar para receber a temperatura do MPU6050; 
+  c.Configurar     para     receber     os     valores     do     giroscópio, acelerômetro e temperatura do sensor; 
+  d.Com dois LEDs, acender um LED se o eixo X do acelerômetro for positivo e caso contrário, acender o outro LED;

@@ -1,13 +1,13 @@
-- label: Menu Label
+- label: Módulo Básico
   items:
-    - name: Example item
+    - name: Conceitos básicos e Introdução ao Arduino;
       link: /example-item/
-- label: Second Menu Label
-  items:
-    - name: Parent Item
+    - name: 2.Eletrônica básica;
+      link: /parent-item/
+      - name: 3.Entrada e Saída digital;
       link: /parent-item/
       items:
-        - name: Sublink 
+        - name: Piscar LEDs em tempos variados; 
           link: /sublink/
         - name: Sublink 2
           link: /sublink2/
