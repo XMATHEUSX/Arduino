@@ -8,8 +8,7 @@
       link: /parent-item/
 - label: 
   items:
-      items:
-        - name: Piscar LEDs em tempos variados 
+    - name: Piscar LEDs em tempos variados 
           link: /sublink/
         - name: SOS em código Morse
           link: /sublink2/
