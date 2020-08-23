@@ -45,3 +45,23 @@ Módulo Avançado I
   b.Configurar para receber a temperatura do MPU6050; 
   c.Configurar     para     receber     os     valores     do     giroscópio, acelerômetro e temperatura do sensor; 
   d.Com dois LEDs, acender um LED se o eixo X do acelerômetro for positivo e caso contrário, acender o outro LED;
+
+
+       - label: Módulo Básico
+  items:
+    - name: Conceitos básicos e Introdução ao Arduino
+      link: /example-item/
+    - name: 2.Eletrônica básica
+      link: /parent-item/
+      - name: 3.Entrada e Saída digital;
+      link: /parent-item/
+      - label: Third Menu Label
+        items:
+          - name: Piscar LEDs em tempos variados; 
+            link: /sublink/
+        -   name: Sublink 2
+            link: /sublink2/
+- label: Third Menu Label
+  items:
+    - name: Another example item
+      link: /another-example-item/
