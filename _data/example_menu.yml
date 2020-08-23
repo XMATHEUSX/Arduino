@@ -17,3 +17,21 @@
           link: /sublink/
         - name: Contadores em Display de 7 segmentos
           link: /sublink2/
+- label: 
+  items:
+    - name: Comunicação;
+      link: /parent-item/
+      items:
+        - name: Envio de números de 0 a 60 pelo monitor serial 
+          link: /sublink/
+        - name: Interface com o push button e envio pela UART
+          link: /sublink2/
+        - name: Acionamento de LED de acordo com caractere recebido 
+          link: /sublink/
+        - name: ECO
+          link: /sublink2/
+
+
+
+
+  
