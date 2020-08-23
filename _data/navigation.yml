@@ -3,7 +3,7 @@
   dropdown:
     - name: módulo  básico
       link: /page-1/
-        - name: Conceitos básicos e Introdução ao Arduino; 
+        - name: Conceitos básicos e Introdução ao Arduino 
           link: /page-2/
     - name: Page With Menubar
       link: /page-3/
