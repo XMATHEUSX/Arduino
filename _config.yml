@@ -1,5 +1,6 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 baseurl: "/"
+footer_menu: example_footer_menu
 plugins:
 - github-pages
 hero_image: images/arduino_site.jpg
