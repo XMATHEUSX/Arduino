@@ -1,5 +1,5 @@
 style: is-dark
-height: is-large
+height: is-medium
 items:
   - title: Módulo Básico
     icon: fas fa-microchip
