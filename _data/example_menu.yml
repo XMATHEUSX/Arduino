@@ -1,12 +1,12 @@
 - label: Módulo Básico
   items:
-    - name: Conceitos básicos e Introdução ao Arduino
+    - name: 1.Conceitos básicos e Introdução ao Arduino
       link: /example-item/
-    - name: Eletrônica básica
+    - name: 2.Eletrônica básica
       link: /parent-item/
 - label: 
   items:
-    - name: Entrada e Saída digital;
+    - name: 3.Entrada e Saída digital;
       link: /parent-item/
       items:
         - name: Piscar LEDs em tempos variados 
@@ -19,7 +19,7 @@
           link: /sublink2/
 - label: 
   items:
-    - name: Comunicação
+    - name: 4.Comunicação
       link: /parent-item/
       items:
         - name: Envio de números de 0 a 60 pelo monitor serial 
@@ -32,7 +32,7 @@
           link: /sublink2/
 - label: 
   items:
-    - name: Portas analógicas
+    - name: 5.Portas analógicas
       link: /parent-item/
       items:
         - name: Receber e enviar a tensão de um LDR via UART 
