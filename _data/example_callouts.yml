@@ -1,8 +1,7 @@
-style: is-light
+style: is-dark
 height: is-medium
 items:
-  - title: Example callout 1
-    subtitle: Example subtitle 1
+  - title: Módulo Básico
     icon: fas fa-microchip
     description: >
         Você que nunca teve contato com um microcontrolador e desejar entrar nesse fantatisco mundo onde é possivel criar projetos incriveis. 
