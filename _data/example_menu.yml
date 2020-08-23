@@ -6,7 +6,7 @@
       link: /parent-item/
 - label: 
   items:
-     - name: Entrada e Saída digital;
+    - name: Entrada e Saída digital;
       link: /parent-item/
       items:
         - name: Piscar LEDs em tempos variados 
