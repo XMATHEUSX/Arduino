@@ -1,11 +1,7 @@
 ---
-hero_image: /pagina-teste/img/arduino_site.jpg
+layout: page
 title: Curso de Arduino
 subtitle: Esse é um Exemplo
-layout: page
-show_sidebar: false
+hero_image: /pagina-teste/img/arduino_site.jpg
 menubar: example_menu
-
-
-
 ---
