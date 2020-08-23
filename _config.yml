@@ -2,3 +2,4 @@ remote_theme: chrisrhymes/bulma-clean-theme
 baseurl: "/"
 plugins:
 - github-pages
+hero_image: /images/arduino_site.png
