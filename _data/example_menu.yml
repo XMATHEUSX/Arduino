@@ -1,10 +1,10 @@
 - label: Módulo Básico
   items:
-    - name: Conceitos básicos e Introdução ao Arduino;
+    - name: Conceitos básicos e Introdução ao Arduino
       link: /example-item/
       - name: 2.Eletrônica básica
       link: /parent-item/
-      - name: 3.Entrada e Saída digital;
+      - name: 3.Entrada e Saída digital
       link: /parent-item/
 - label: Second Menu Label
   items:
