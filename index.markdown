@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bem vindo!"
 date:   2020-08-22 21:26:42 -0300
 categories: jekyll update
 ---
