@@ -13,7 +13,7 @@
           link: /sublink/
         - name: SOS em código Morse
           link: /sublink2/
-- label: Third Menu Label
-  items:
-    - name: Another example item
-      link: /another-example-item/
+        - name: Semáforo interativo 
+          link: /sublink/
+        - name: Contadores em Display de 7 segmentos
+          link: /sublink2/
