@@ -1,6 +1,6 @@
-- label: Menu Label
+- label: Módulo Básico
   items:
-    - name: Example item
+    - name: Conceitos básicos e Introdução ao Arduino
       link: /example-item/
 - label: Second Menu Label
   items:
