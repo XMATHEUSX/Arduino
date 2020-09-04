@@ -1,29 +1,23 @@
 ---
-layout: page
-title: Page With Contents
-subtitle: Example page with contents
-toc: true
-toc_title: Custom Title
-show_sidebar: false
+title: Product 1 Name
+subtitle: Product 1 tagline here
+description: This is a product description
+product_code: ABC124
+layout: product
+image: https://via.placeholder.com/640x480
+price: £1.99 + VAT
+features:
+    - label: Great addition to any home
+      icon: fa-location-arrow
+    - label: Comes in a range of styles
+      icon: fa-grin-stars
+    - label: Available in multiple sizes
+      icon: fa-fighter-jet
+rating: 3
 ---
 
-## Introduction
+This is the content about the product.
 
-This is an example page with contents that are generated from the page content. 
-image: https://via.placeholder.com/1024x788
-The page contents are generated automatically using [Jekyll TOC](https://github.com/allejo/jekyll-toc).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
 
-## Set Up
-
-To add contents to your page add `toc: true` to the page's front matter. 
-
-### Contents Title
-
-To overwrite the default title for the contents, set `toc_title: My Custom Title` in the page's front matter.
-
-```yaml
-layout: page
-title: Page With Contents
-toc: true
-toc_title: Custom Title
-```
+Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
