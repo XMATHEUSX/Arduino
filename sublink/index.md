@@ -21,8 +21,6 @@ To add contents to your page add `toc: true` to the page's front matter.
 
 To overwrite the default title for the contents, set `toc_title: My Custom Title` in the page's front matter.
 
-### Example Front Matter 
-
 ```yaml
 layout: page
 title: Page With Contents
