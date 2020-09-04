@@ -10,7 +10,7 @@ show_sidebar: false
 ## Introduction
 
 This is an example page with contents that are generated from the page content. 
-
+image: https://via.placeholder.com/1024x788
 The page contents are generated automatically using [Jekyll TOC](https://github.com/allejo/jekyll-toc).
 
 ## Set Up
