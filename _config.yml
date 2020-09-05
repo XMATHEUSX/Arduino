@@ -3,4 +3,4 @@ baseurl: "/"
 footer_menu: example_footer_menu
 plugins:
 - github-pages
-hero_image: images/arduino_site.jpg
+hero_image: img/arduino_site.jpg
