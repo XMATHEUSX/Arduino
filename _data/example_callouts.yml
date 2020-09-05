@@ -6,10 +6,10 @@ items:
     description: >
         Você que nunca teve contato com um microcontrolador e desejar entrar nesse fantátisco mundo onde é possível criar projetos incríveis. 
     call_to_action_name: Módulo Básico
-    call_to_action_link: /page-1/
+    call_to_action_link: /basico/
   - title: Módulo Avançado I
     icon: fa-wrench
     description: >
         Para as pessoas que já tem um certo conhecimento em arduino,neste curso poderam aprender ainda mais sobre essa plataforma incríveis.   
     call_to_action_name: Módulo Avançado I
-    call_to_action_link: /page-2/
+    call_to_action_link: /avancado/
