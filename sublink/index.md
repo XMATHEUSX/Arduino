@@ -28,7 +28,7 @@ show_sidebar: false
  
 
 ## Esquema Arduino
-![esquema arduino](/pagina-teste/img/Cool Waasa-Bruticus.png)
+![esquema arduino](/Arduino/img/Cool Waasa-Bruticus.png)
   
   
 ## Código 
