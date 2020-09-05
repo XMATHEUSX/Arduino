@@ -9,9 +9,9 @@ show_sidebar: false
 ---
 ## Tutorial
 <!-- blank line -->
-<figure class="video_container" style="width:100%">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" width="100%"
-  height="100%" frameborder="0" allowfullscreen="true"> </iframe>
+<figure class="video_container" style="width:100%;height:400px">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" width="80%"
+  height="80%" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
