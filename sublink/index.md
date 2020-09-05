@@ -18,6 +18,7 @@ To add contents to your page add `toc: true` to the page's front matter.
 
 ### Contents Title
 ![esquema arduino](/pagina-teste/img/arduino_site.jpg)
+  esquema arduino
 
 To overwrite the default title for the contents, set `toc_title: My Custom Title` in the page's front matter.
 
