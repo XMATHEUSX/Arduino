@@ -11,7 +11,7 @@ show_sidebar: false
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" width="100%"
-  height="80%" frameborder="0" allowfullscreen="true"> </iframe>
+  height="400px" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
