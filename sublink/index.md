@@ -17,7 +17,7 @@ The page contents are generated automatically using [Jekyll TOC](https://github.
 To add contents to your page add `toc: true` to the page's front matter. 
 
 ### Contents Title
-[![JetBrains](img/arduino_site.jpg)]
+[!(img/arduino_site.jpg)]
     esquema arduino
 
 To overwrite the default title for the contents, set `toc_title: My Custom Title` in the page's front matter.
