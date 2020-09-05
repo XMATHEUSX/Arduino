@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Page With Contents
+title: Piscando LEDs em tempos variados
 subtitle: Example page with contents
 toc: true
-toc_title: Custom Title
+hide_hero: true
+toc_title: Piscando LEDs em tempos variados
 image: https://via.placeholder.com/640x480
 show_sidebar: false
 ---
-## Introdução
-
-This is an example page with contents that are generated from the page content. 
-The page contents are generated automatically using [Jekyll TOC](https://github.com/allejo/jekyll-toc).
-
 ## Materiais utilizados
 
  - 1 led vermelho
