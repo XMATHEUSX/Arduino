@@ -29,7 +29,7 @@ The page contents are generated automatically using [Jekyll TOC](https://github.
   
   
 ## Código 
-`
+```
 void setup()
 {
   pinMode(7, OUTPUT);
@@ -55,4 +55,4 @@ void loop()
   delay(1000);
   
 }
-`
+```
